@@ -1,6 +1,6 @@
 {
-  "name": "@jp-poc/yyyyy",
-  "version": "1.0.3",
+  "name": "@jp-poc/poc",
+  "version": "1.0.0",
   "description": "Szum-Tech design system with tailwindcss support",
   "keywords": [
     "szum-tech",
@@ -89,9 +89,7 @@
     "type-check": "tsc --noEmit"
   },
   "dependencies": {
-    "@jp-poc/yyyyy": "^1.0.1",
     "@radix-ui/react-icons": "^1.3.2",
-    "@radix-ui/react-slot": "^1.1.2",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "radix-ui": "^1.1.3",
@@ -134,7 +132,7 @@
     "serve": "^14.2.4",
     "storybook": "^8.5.3",
     "storybook-dark-mode": "^4.0.2",
-    "tailwindcss": "^4.0.15",
+    "tailwindcss": "^4.0.14",
     "tsup": "^8.4.0",
     "typescript": "^5.8.2",
     "vite": "^5.4.14",
